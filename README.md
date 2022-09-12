@@ -5,7 +5,7 @@
 
 
 
-# Project : Website with SASS
+# Project : School Website with Bootstrap
 
 ## Table of contents
 
